@@ -13,9 +13,9 @@ This will launch the app in your web browser at http://localhost:8501.
 ### Note: 
 You will need to add your OPENAI_API_KEY in the .env file
 
-#Improvements Suggestions:
+# Improvements Suggestions:
 
-###Personalized Learning Paths:
+### Personalized Learning Paths:
 Introduce personalized learning journeys for users to deepen their Islamic knowledge.
 Users can select a target achievement, such as memorizing the Quran, and the app will provide a program to help them achieve it within a specific timeframe, like 30 days.
 You can also gamify the process by rewarding users with achievements along the way
