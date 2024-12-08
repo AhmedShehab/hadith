@@ -10,7 +10,7 @@
 `streamlit run tirmidhi.py`
 This will launch the app in your web browser at http://localhost:8501.
 
-###Note: 
+### Note: 
 You will need to add your OPENAI_API_KEY in the .env file
 
 #Improvements Suggestions:
